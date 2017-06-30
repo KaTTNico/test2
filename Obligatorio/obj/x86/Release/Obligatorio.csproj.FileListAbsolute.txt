@@ -1,0 +1,4 @@
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\bin\Release\Obligatorio.exe
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\bin\Release\Obligatorio.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Release\Obligatorio.exe
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Release\Obligatorio.pdb

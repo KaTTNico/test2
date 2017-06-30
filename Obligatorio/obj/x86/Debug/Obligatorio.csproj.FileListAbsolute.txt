@@ -1,0 +1,5 @@
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
